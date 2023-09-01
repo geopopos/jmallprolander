@@ -1,5 +1,5 @@
 .image-form-section {
-  background-image: url('https://bestroofandgutter.com/wp-content/uploads/2020/06/qtq80-vfj485.jpeg');
+  background-image: url('assets/img/hero.webp');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -11,8 +11,8 @@
 }
 
 .btn-danger {
-  background-color: #FF6600;
-  border-color: #FF6600;
+  background-color: #A0090D;
+  border-color: #A0090D;
 }
 
 .image-form-section h1 {
@@ -78,4 +78,10 @@
   background-color: #ccc !important;
   border-color: #999999 !important;
   pointer-events: none;
+}
+
+.owner-image {
+  border-radius: 50%;
+  width: 150px; /* or however big you want it */
+  height: 150px;
 }
