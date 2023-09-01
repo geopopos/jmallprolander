@@ -1,0 +1,81 @@
+.image-form-section {
+  background-image: url('https://bestroofandgutter.com/wp-content/uploads/2020/06/qtq80-vfj485.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.image-form-background {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding:15px;
+}
+
+.btn-danger {
+  background-color: #FF6600;
+  border-color: #FF6600;
+}
+
+.image-form-section h1 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.form-container {
+  background-color: #F5F5F5;
+  border-radius: 30px;
+  padding: 40px;
+}
+
+.form-container form {
+  margin-top: 20px;
+}
+
+.services-section {
+  background-color: #f7f7f7;
+  padding: 50px 0;
+  margin-bottom: 50px;
+}
+
+.materials-section {
+  background-color: #fff;
+  padding: 50px 0;
+  margin-bottom: 50px;
+}
+
+
+.process-section {
+  background-color: #f7f7f7;
+  padding: 50px 0;
+  margin-bottom: 50px;
+}
+
+.why-choose-section {
+  background-color: #fff;
+  padding: 50px 0;
+  margin-bottom: 50px;
+}
+
+.services-section .col-md-4 {
+  display: flex;
+  flex-direction: column;
+}
+
+.services-section .col-md-4 > * {
+  flex: 1;
+}
+
+.services-section img {
+  height: 200px;
+  object-fit: cover;
+}
+
+.materials-section .row {
+  margin-bottom: 40px;
+}
+
+.disabled {
+  background-color: #ccc !important;
+  border-color: #999999 !important;
+  pointer-events: none;
+}
